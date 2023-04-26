@@ -9,4 +9,4 @@ git checkout 414
 export JAVA_HOME=$JAVA17_HOME
 mvn package -DskipTests -pl plugin/trino-hive
 
-mvn clean install -DskipTests -pl plugin/trino-hive -am
+mvn clean install -DskipTests -pl plugin/trino-hive-hadoop2 -am
