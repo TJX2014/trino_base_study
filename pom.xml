@@ -29,10 +29,10 @@
                     <groupId>io.trino</groupId>
                     <artifactId>trino-tpcds</artifactId>
                 </exclusion>
-                <exclusion>
-                    <groupId>io.trino</groupId>
-                    <artifactId>trino-hive-hadoop2</artifactId>
-                </exclusion>
+<!--                <exclusion>-->
+<!--                    <groupId>io.trino</groupId>-->
+<!--                    <artifactId>trino-hive-hadoop2</artifactId>-->
+<!--                </exclusion>-->
                 <exclusion>
                     <groupId>io.trino</groupId>
                     <artifactId>trino-local-file</artifactId>
